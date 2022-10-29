@@ -10,6 +10,10 @@
 Install and configure the [Minio](https://minio.io/) S3 compatible object storage server
 on RHEL/CentOS and Debian/Ubuntu.
 
+## Fork 元との変更点
+
+- root に該当する access key, secret key を指定する環境変数名を変更
+
 ## Requirements
 
 None.
